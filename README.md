@@ -51,3 +51,4 @@ I work on real-world ecommerce projects, helping brands build optimized online s
 
 - LinkedIn: www.linkedin.com/in/mateo-olivero-79924b373
 - GitHub: github.com/mateoolivero
+- Mail: mateooliverodev@gmail.com
