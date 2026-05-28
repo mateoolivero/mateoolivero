@@ -7,10 +7,10 @@ I work on real-world ecommerce projects, helping brands build optimized online s
 ## 🚀 About Me
 
 - 📍 Córdoba, Argentina
-- 💻 Frontend & Ecommerce developer
+- 💻 Frontend & eCommerce developer
 - 🎓 Programming degree at UTN
 - 📚 Full stack development career at Coderhouse
-- 🛒 TiendaNube partner & Ecommerce specialist
+- 🛒 TiendaNube partner & eCommerce specialist
 - 🧠 Passionate about optimization, problem solving and digital products
 
 ## 🛠 Tech Stack
@@ -32,7 +32,7 @@ I work on real-world ecommerce projects, helping brands build optimized online s
 
 ## 📈 What I Do
 
-- Ecommerce development
+- eCommerce development
 - Custom storefront implementations
 - UX/UI optimization
 - Responsive web design
